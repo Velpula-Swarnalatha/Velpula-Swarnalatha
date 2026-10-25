@@ -1,2 +1,40 @@
-# Velpula-Swarnalatha
-My GitHub profile README | Electronics and Embedded Systems
+# Hi, I'm Swarna Latha! 👋
+
+### ECE Graduate | Embedded Systems | Electronics Hardware & Software
+
+I'm an Electronics and Communication Engineering graduate interested in embedded systems, electronics circuit design, hardware interfacing, and troubleshooting. I enjoy designing circuits, simulating projects, solving technical problems, and exploring embedded hardware and software.
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Embedded C, C, Python Basics
+- **Microcontrollers:** PIC16F877A
+- **Communication Protocols:** UART, SPI, I2C
+- **Electronics & Hardware:** Circuit Design, Digital Electronics, Hardware Interfacing, Hardware Troubleshooting
+- **Simulation & Development Tools:** Proteus, MPLAB X, STM32CubeIDE (Learning)
+- **Version Control:** Git, GitHub
+
+## 💻 Embedded Hardware & Software
+
+- Circuit design and simulation using Proteus
+- Microcontroller-based embedded system projects
+- Hardware interfacing and serial communication
+- Circuit testing, troubleshooting, and debugging
+- Embedded C programming for microcontrollers
+
+## 🚀 Featured Projects
+
+### 1. Temperature Monitoring System
+Temperature monitoring and alert system simulation using LM35, PIC16F877A, LCD, and Proteus.
+
+### 2. RFID Attendance System
+RFID-based attendance and access control simulation using EM18, UART, PIC16F877A, and LCD.
+
+### 3. Home Automation System
+Home automation simulation using PIC16F877A and serial communication commands.
+
+📂 **[Explore My Embedded Systems Projects](https://github.com/Velpula-Swarnalatha/Embedded-Systems-Projects)**
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Swarna Latha](https://www.linkedin.com/in/swarna-latha09/)
+- **GitHub:** [Velpula-Swarnalatha](https://github.com/Velpula-Swarnalatha)
