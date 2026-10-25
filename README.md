@@ -21,6 +21,27 @@ I'm an Electronics and Communication Engineering graduate interested in embedded
 - Circuit testing, troubleshooting, and debugging
 - Embedded C programming for microcontrollers
 
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velpula-Swarnalatha&show_icons=true&hide_title=true)
+
+## 🚀 Core Expertise
+
+- Embedded C Programming
+- PIC16F877A Microcontroller
+- UART Communication
+- Circuit Design & Proteus Simulation
+- Hardware Interfacing & Troubleshooting
+- Embedded Hardware & Software
+
+## 🏆 Key Highlights
+
+- 🎓 B.Tech in Electronics and Communication Engineering
+- 🔧 Hands-on practice with PIC16F877A-based embedded projects
+- 💻 Experience with Proteus circuit simulation and MPLAB X
+- 🚀 Building practical embedded systems projects
+- 📚 Exploring STM32 development using STM32CubeIDE
+
 ## 🚀 Featured Projects
 
 ### 1. Temperature Monitoring System
