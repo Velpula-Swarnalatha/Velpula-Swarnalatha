@@ -1,7 +1,9 @@
-# Hi 👋 I'm Swarnalatha Velpula
+<h1 align="center">Hi 👋, I'm Swarnalatha Velpula</h1>
+
+<h3 align="center">ECE Graduate | Embedded Systems & Electronics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Embedded+Systems;Embedded+C+Programming;Electronics+Hardware;Circuit+Design+%26+Proteus+Simulation;Open+to+Entry-Level+Embedded+Roles" alt="Typing SVG" />
+  Open to Entry-Level Roles in Embedded Systems, Embedded C, Firmware Development & Electronics Hardware
 </p>
 
 ### ECE Graduate | Embedded Systems | Electronics Hardware & Software
