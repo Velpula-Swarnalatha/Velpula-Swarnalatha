@@ -6,8 +6,6 @@
   Open to Entry-Level Roles in Embedded Systems, Embedded C, Firmware Development & Electronics Hardware
 </p>
 
-### ECE Graduate | Embedded Systems | Electronics Hardware & Software
-
 I'm an Electronics and Communication Engineering graduate interested in embedded systems, electronics circuit design, hardware interfacing, and troubleshooting. I enjoy designing circuits, simulating projects, solving technical problems, and exploring embedded hardware and software.
 
 ## 🛠️ Technical Skills
@@ -26,15 +24,6 @@ I'm an Electronics and Communication Engineering graduate interested in embedded
 - Hardware interfacing and serial communication
 - Circuit testing, troubleshooting, and debugging
 - Embedded C programming for microcontrollers
-
-## 🚀 Core Expertise
-
-- Embedded C Programming
-- PIC16F877A Microcontroller
-- UART Communication
-- Circuit Design & Proteus Simulation
-- Hardware Interfacing & Troubleshooting
-- Embedded Hardware & Software
 
 ## 🏆 Key Highlights
 
