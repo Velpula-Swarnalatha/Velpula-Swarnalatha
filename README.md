@@ -47,15 +47,15 @@ I'm an Electronics and Communication Engineering graduate interested in embedded
 ## 🚀 Featured Projects
 
 ### 1. Temperature Monitoring System
-Temperature monitoring and alert system simulation using LM35, PIC16F877A, LCD, and Proteus.
+Temperature monitoring and alert system simulation using **LM35, PIC16F877A, LCD, and Proteus**.
 
 ### 2. RFID Attendance System
-RFID-based attendance and access control simulation using EM18, UART, PIC16F877A, and LCD.
+RFID-based attendance and access control simulation using **EM18, UART, PIC16F877A, and LCD**.
 
 ### 3. Home Automation System
-Home automation simulation using PIC16F877A and serial communication commands.
+Home automation simulation using **PIC16F877A and serial communication commands**.
 
-📂 **[Explore My Embedded Systems Projects](https://github.com/Velpula-Swarnalatha/Embedded-Systems-Projects)**
+📂 [**Explore My Embedded Systems Projects**](https://github.com/Velpula-Swarnalatha/Embedded-Systems-Projects)
 
 ## 🤝 Connect With Me
 
