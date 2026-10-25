@@ -1,4 +1,4 @@
-#                                                        Hi 👋 I'm Swarnalatha Velpula
+                                             # Hi 👋 I'm Swarnalatha Velpula
 
 ### ECE Graduate | Embedded Systems | Electronics Hardware & Software
 
