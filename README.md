@@ -21,10 +21,6 @@ I'm an Electronics and Communication Engineering graduate interested in embedded
 - Circuit testing, troubleshooting, and debugging
 - Embedded C programming for microcontrollers
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velpula-Swarnalatha&show_icons=true&hide_title=true)
-
 ## 🚀 Core Expertise
 
 - Embedded C Programming
