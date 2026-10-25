@@ -1,4 +1,4 @@
-# Hi, I'm Swarna Latha! 👋
+#                Hi, I'm Swarna Latha! 👋
 
 ### ECE Graduate | Embedded Systems | Electronics Hardware & Software
 
