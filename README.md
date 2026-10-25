@@ -59,5 +59,11 @@ Home automation simulation using PIC16F877A and serial communication commands.
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Swarna Latha](https://www.linkedin.com/in/swarna-latha09/)
-- **GitHub:** [Velpula-Swarnalatha](https://github.com/Velpula-Swarnalatha)
+<p align="left">
+  <a href="https://www.linkedin.com/in/swarna-latha09/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Velpula-Swarnalatha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
